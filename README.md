@@ -12,3 +12,4 @@ Senior Data Engineer - Assessment of 2 Questions by ARM Team
   ii) After that there will be a Chart with Interest over time. 
 
       
+![image](https://github.com/Venkatj16/Senior_Data_Engineer_Assessment/assets/50960562/5151bc64-69e6-47e3-ab62-107283d844c3)
